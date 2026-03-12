@@ -1,4 +1,4 @@
-name: Verify Human Identity
+name: aisirwan
 
 on:
   workflow_dispatch:
